@@ -310,7 +310,7 @@ This project is under the MIT License.
 
 ##  Author
 
-**Slenderman1314**
+**Joan Bono Frígols**
 - GitHub: [@Joanbonoprog](https://github.com/Joanbonoprog)
 
 ##  Resources & Documentation
