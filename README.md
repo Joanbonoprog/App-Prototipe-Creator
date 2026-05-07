@@ -311,7 +311,7 @@ This project is under the MIT License.
 ##  Author
 
 **Slenderman1314**
-- GitHub: [@Slenderman1314](https://github.com/Slenderman1314)
+- GitHub: [@Joanbonoprog](https://github.com/Joanbonoprog)
 
 ##  Resources & Documentation
 
