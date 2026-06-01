@@ -88,7 +88,6 @@ App Prototype Creator is a tool that uses artificial intelligence to convert con
    - Enter your API key
    - Select the provider from the menu
 
-3. **READ THE SECURITY GUIDE**: [API_KEYS_SECURITY.md](./API_KEYS_SECURITY.md)
 
 ### **Protecting Your Keys**
 
