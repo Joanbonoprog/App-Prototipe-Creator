@@ -88,7 +88,6 @@ App Prototype Creator is a tool that uses artificial intelligence to convert con
    - Enter your API key
    - Select the provider from the menu
 
-3. **READ THE SECURITY GUIDE**: [API_KEYS_SECURITY.md](./API_KEYS_SECURITY.md)
 
 ### **Protecting Your Keys**
 
@@ -312,18 +311,6 @@ This project is under the MIT License.
 
 **Joan Bono Frígols**
 - GitHub: [@Joanbonoprog](https://github.com/Joanbonoprog)
-
-##  Resources & Documentation
-
-### Project Documentation
-- [Complete Technical Documentation](./Docs/App-Prototipe-Creator-Docs/)
-  - Architecture and layers
-  - Screen guides
-  - AI APIs integration
-  - Export system
-  - Platforms (Desktop, Android, future)
-  - i18n system
-  - Changelog
 
 ### Technologies
 - [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
