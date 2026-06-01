@@ -312,18 +312,6 @@ This project is under the MIT License.
 **Joan Bono Frígols**
 - GitHub: [@Joanbonoprog](https://github.com/Joanbonoprog)
 
-##  Resources & Documentation
-
-### Project Documentation
-- [Complete Technical Documentation](./Docs/App-Prototipe-Creator-Docs/)
-  - Architecture and layers
-  - Screen guides
-  - AI APIs integration
-  - Export system
-  - Platforms (Desktop, Android, future)
-  - i18n system
-  - Changelog
-
 ### Technologies
 - [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
 - [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
